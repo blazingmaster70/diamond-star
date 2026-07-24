@@ -127,3 +127,7 @@ box [
 ```
 
 For a shorter reference, select **Language guide** inside DSCE.
+
+## Getting a security warning?
+
+Click **More Info**, then click **Run anyway**. Remember, this is **NOT** a virus, so Windows can get a little finicky.
