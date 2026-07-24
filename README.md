@@ -15,7 +15,7 @@ The editor includes line numbers, automatic indentation, and code colors:
 
 ## Your first program
 
-Every DiamondStar program must begin with `box [` and end with `]`.
+Every DiamondStar program must begin with `box [` and end with `]`. All of your code goes inside those brackets—nothing belongs before `box [` or after `]`.
 
 ```text
 box [
@@ -127,7 +127,3 @@ box [
 ```
 
 For a shorter reference, select **Language guide** inside DSCE.
-
-## Getting a security warning?
-
-Click **More Info**, then click **Run anyway**. Remember, this is **NOT** a virus, so Windows can get a little finicky.
