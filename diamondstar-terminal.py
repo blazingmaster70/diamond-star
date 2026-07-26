@@ -26,7 +26,7 @@ while True:
         print("make - creates a variable")
 
     elif command == "help ask for":
-        print("ak for - asks the user for input")
+        print("ask for - asks the user for input")
 
     elif command == "help for":
         print("for - displays a variable's value")
@@ -41,7 +41,7 @@ while True:
         print("if: begins a condition")
 
     elif command == "help checks if":
-        print("checks - true when a value contains text")
+        print("checks if - true when a value contains text")
 
     elif command == "help try:":
         print("try: - true branch")
